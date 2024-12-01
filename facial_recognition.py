@@ -9,13 +9,26 @@ def capture_video():
         print("Erro ao acessar o vídeo.")
         return
 
+    # Configurar o gravador de vídeo (VideoWriter)
+    frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    fps = int(cap.get(cv2.CAP_PROP_FPS))
+
+    # Define o codec e cria o objeto VideoWriter
+    out = cv2.VideoWriter(
+        'video_processado.mp4',  # Nome do arquivo de saída
+        cv2.VideoWriter_fourcc(*'MP4V'),
+        fps,  # FPS do vídeo
+        (frame_width, frame_height)  # Tamanho dos frames
+    )
+
     # Carregar o classificador Haar Cascade
     face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
     if face_cascade.empty():
         print("Erro ao carregar o classificador Haar Cascade.")
         return
-    
+
     total_frames = 0
     intervalo_entre_frames = 30
 
@@ -51,6 +64,9 @@ def capture_video():
             # Sempre exibir o frame
             cv2.imshow('Face Detection', frame)
 
+            # Gravar o frame processado no vídeo de saída
+            out.write(frame)
+
             # Encerrar ao pressionar 'q'
             if cv2.waitKey(10) & 0xFF == ord('q'):
                 print("Encerrando...")
@@ -63,6 +79,7 @@ def capture_video():
     finally:
         # Liberar recursos
         cap.release()
+        out.release()  # Liberar o VideoWriter
         cv2.destroyAllWindows()
 
 if __name__ == "__main__":
