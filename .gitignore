@@ -1,0 +1,16 @@
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos
+haarcascade_frontalface_default.xml
