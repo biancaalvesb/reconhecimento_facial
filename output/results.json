@@ -1,0 +1,1128 @@
+[
+    {
+        "frame": 0,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 5,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 10,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 15,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 20,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 25,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 30,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 35,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 40,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 45,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 50,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 55,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 60,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 65,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 70,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 75,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Andando"
+    },
+    {
+        "frame": 80,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 85,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 90,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 95,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 100,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 105,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 110,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 115,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 120,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 125,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 130,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 135,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 140,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 145,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 150,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 155,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 160,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 165,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 170,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 175,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 180,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 185,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 190,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 195,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 200,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 205,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 210,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 215,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 220,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 225,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 230,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 235,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 240,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 245,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 250,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 255,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 260,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 265,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 270,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 275,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 280,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 285,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 290,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 295,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 300,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 305,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 310,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 315,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 320,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 325,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 330,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 335,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 340,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 345,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 350,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 355,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 360,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 365,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 370,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 375,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 380,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 385,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 390,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 395,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 400,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 405,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 410,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 415,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 420,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 425,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 430,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 435,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 440,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 445,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 450,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 455,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 460,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 465,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 470,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 475,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 480,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 485,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 490,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 495,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 500,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 505,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 510,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 515,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 520,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 525,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 530,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 535,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 540,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 545,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 550,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 555,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 560,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 565,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 570,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Andando"
+    },
+    {
+        "frame": 575,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 580,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 585,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 590,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 595,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 600,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 605,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 610,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 615,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 620,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 625,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 630,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 635,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 640,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 645,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 650,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 655,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 660,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 665,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Indefinido"
+    },
+    {
+        "frame": 670,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 675,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 680,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 685,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 690,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 695,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 700,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 705,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 710,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 715,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 720,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 725,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 730,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 735,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 740,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 745,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 750,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 755,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 760,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 765,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 770,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 775,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 780,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 785,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 790,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 795,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 800,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 805,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 810,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 815,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 820,
+        "num_faces": 1,
+        "emotions": [
+            "Indefinido"
+        ],
+        "activity": "Acenando"
+    }
+]
