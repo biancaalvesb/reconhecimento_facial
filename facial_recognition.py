@@ -87,22 +87,13 @@ def detect_pose_and_faces(video_path, output_path):
                     if results.pose_landmarks:
                         mp_drawing.draw_landmarks(frame, results.pose_landmarks, mp_pose.POSE_CONNECTIONS)
 
-                    # Identificar anomalias
-                    is_anomalous = activity == "Anômalo"
-                    if is_anomalous:
-                        anomalies_detected += 1
-
-                    # Adicionar resultados do frame
-                    results_data.append({
-                        "frame": frame_count,
-                        "num_faces": len(face_locations),
-                        "emotions": emotions,
-                        "activity": activity,
-                        "anomalous": is_anomalous
-                    })
-
-                    out.write(frame)
+                    # Adicionar texto ao frame antes de salvar no vídeo de saída
                     cv2.putText(frame, f"Atividade: {activity}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+
+                    # Salvar o frame no vídeo de saída
+                    out.write(frame)
+
+                    # Exibir o vídeo com marcações na tela
                     cv2.imshow('Video', frame)
 
                     if cv2.waitKey(1) & 0xFF == ord('q'):
@@ -187,14 +178,15 @@ def detect_activity(pose_landmarks, mp_pose):
         right_knee = pose_landmarks.landmark[mp_pose.PoseLandmark.RIGHT_KNEE]
         left_shoulder = pose_landmarks.landmark[mp_pose.PoseLandmark.LEFT_SHOULDER]
         right_shoulder = pose_landmarks.landmark[mp_pose.PoseLandmark.RIGHT_SHOULDER]
-        nose = pose_landmarks.landmark[mp_pose.PoseLandmark.NOSE]
-        mouth = pose_landmarks.landmark[mp_pose.PoseLandmark.MOUTH_LEFT]
         left_eye = pose_landmarks.landmark[mp_pose.PoseLandmark.LEFT_EYE]
         right_eye = pose_landmarks.landmark[mp_pose.PoseLandmark.RIGHT_EYE]
         left_hip = pose_landmarks.landmark[mp_pose.PoseLandmark.LEFT_HIP]
         right_hip = pose_landmarks.landmark[mp_pose.PoseLandmark.RIGHT_HIP]
+        nose = pose_landmarks.landmark[mp_pose.PoseLandmark.NOSE]
+        mouth = pose_landmarks.landmark[mp_pose.PoseLandmark.MOUTH_LEFT]
 
-        # Identificar movimentos
+
+         # Identificar movimentos
         circular_motion = (
             abs((left_wrist.x - left_elbow.x) * (left_elbow.y - left_shoulder.y) -
                 (left_elbow.x - left_shoulder.x) * (left_wrist.y - left_elbow.y)) > 0.05
@@ -211,7 +203,7 @@ def detect_activity(pose_landmarks, mp_pose):
         alternating_leg_motion = (
             abs(left_knee.y - left_ankle.y) > 0.2 and abs(right_knee.y - right_ankle.y) > 0.2
         )
-        shoulder_alignment = abs(left_shoulder.y - right_shoulder.y) < 0.1
+        shoulder_alignment = abs(left_shoulder.y - right_shoulder.y) < 0.3
         hip_alignment = abs(left_hip.y - right_hip.y) < 0.1
         facial_movement = (
             abs(left_eye.y - right_eye.y) > 0.05 and  # Diferença de altura entre os olhos
@@ -219,20 +211,29 @@ def detect_activity(pose_landmarks, mp_pose):
             abs(left_eye.x - right_eye.x) < 0.05     # Distância mínima entre olhos
         )
         hand_vertical_movement = (
-            abs(left_wrist.y - left_elbow.y) > 0.1 or abs(right_wrist.y - right_elbow.y) > 0.1
+            abs(left_wrist.y - left_elbow.y) > 0.2 or abs(right_wrist.y - right_elbow.y) > 0.2
         )
+        # Identificar mãos acima dos ombros
+        hands_above_shoulders = (
+            left_wrist.y < left_shoulder.y or right_wrist.y < right_shoulder.y
+        )
+        # Identificar alinhamento horizontal para "Deitado"
+        eye_alignment = abs(left_eye.y - right_eye.y) < 0.05  # Olhos alinhados horizontalmente
+        mouth_alignment = abs(mouth.y - nose.y) < 0.05  # Boca alinhada horizontalmente com o nariz
+        shoulder_alignment_horizontal = abs(left_shoulder.y - right_shoulder.y) < 0.1
+        hip_alignment_horizontal = abs(left_hip.y - right_hip.y) < 0.1
 
+        
         # Dançando: pernas e braços em movimento simultâneo
         if leg_movement and arm_movement and circular_motion and not shoulder_alignment:
             return "Dancando"
 
+        if hands_above_shoulders and hand_vertical_movement:
+            return "Maos para cima"
+        
         # Andando: movimento alternado das pernas
         if leg_displacement and alternating_leg_motion and not shoulder_alignment:
             return "Andando"
-
-        # Acenando: mão acima do ombro, movendo-se de um lado para o outro
-        if hand_vertical_movement and not leg_movement:
-            return "Acenando"
 
         # Fazendo careta: movimentos estranhos da boca e olhos
         if facial_movement:
@@ -241,18 +242,17 @@ def detect_activity(pose_landmarks, mp_pose):
         # Escrevendo: movimento leve da mão (vertical), sem movimentos laterais significativos
         if abs(left_wrist.y - left_elbow.y) > 0.1 and abs(right_wrist.y - right_elbow.y) < 0.05:
             return "Escrevendo"
+        
 
 
     # Movimento não identificado ou anômalo
     return "Nao identificado ou anomalo"
 
 
-
-
 # Configurações do vídeo de entrada e saída
 script_dir = os.path.dirname(os.path.abspath(__file__))
 input_video_path = os.path.join(script_dir, 'video_teste.mp4')
-output_video_path = os.path.join(script_dir, 'output_video_otimizado_8.mp4')
+output_video_path = os.path.join(script_dir, 'output_video_otimizado_final.mp4')
 
 # Processar o vídeo
 detect_pose_and_faces(input_video_path, output_video_path)
