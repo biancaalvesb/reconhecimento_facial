@@ -1,1128 +1,4686 @@
 [
     {
         "frame": 0,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 2,
+        "emotions": [
+            "neutral",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 5,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "sad",
+            "sad",
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 10,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 15,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "fear",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 20,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "sad",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 25,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 30,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "angry",
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 35,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "neutral",
+            "fear",
+            "angry",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 40,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "neutral",
+            "sad",
+            "sad",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 45,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "sad",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 50,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "sad",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 55,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "sad",
+            "neutral",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 60,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 65,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 2,
+        "emotions": [
+            "neutral",
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 70,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 2,
+        "emotions": [
+            "sad",
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 75,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Andando"
+        "num_faces": 2,
+        "emotions": [
+            "neutral",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 80,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "sad",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 85,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "sad",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 90,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "neutral",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 95,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "neutral",
+            "sad",
+            "happy",
+            "happy"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 100,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "sad",
+            "neutral",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 105,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 4,
+        "emotions": [
+            "sad",
+            "neutral",
+            "sad",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 110,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 3,
+        "emotions": [
+            "neutral",
+            "sad",
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 115,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Indefinido"
+        "num_faces": 2,
+        "emotions": [
+            "sad",
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 120,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 125,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 2,
+        "emotions": [
+            "fear",
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 130,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 135,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 140,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 145,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 150,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 155,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 160,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 165,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 170,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 175,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 180,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 185,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 190,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 195,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 200,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 205,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 210,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 215,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 220,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 225,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 230,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 235,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 240,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 245,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 250,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 255,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 260,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 265,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 270,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 275,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 280,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 285,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 290,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 295,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 300,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 305,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 310,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 315,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 320,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 325,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 330,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 335,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 340,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 345,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 350,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 355,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 360,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 365,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 370,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 375,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 380,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 385,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 390,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 395,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 400,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 405,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 410,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 415,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 420,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 425,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 430,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 435,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 440,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 445,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 450,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 455,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 460,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 465,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 470,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 475,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 480,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 485,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 490,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 495,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 500,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 505,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 510,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 515,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 520,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 525,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 530,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 535,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 540,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 545,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Indefinido"
+        "activity": "Dançando"
     },
     {
         "frame": 550,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 555,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 560,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 565,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 570,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "angry"
         ],
-        "activity": "Andando"
+        "activity": "Dançando"
     },
     {
         "frame": 575,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 580,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 585,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 590,
-        "num_faces": 1,
-        "emotions": [
-            "Indefinido"
-        ],
-        "activity": "Acenando"
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
     },
     {
         "frame": 595,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 600,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Indefinido"
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 605,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 610,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 615,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 620,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 625,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 630,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 635,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 640,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 645,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 650,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 655,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
     },
     {
         "frame": 660,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Indefinido"
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 665,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Indefinido"
+        "activity": "Neutro"
     },
     {
         "frame": 670,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "sad"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 675,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 680,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 685,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 690,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 695,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 700,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 705,
         "num_faces": 0,
         "emotions": [],
-        "activity": "Acenando"
+        "activity": "Dançando"
     },
     {
         "frame": 710,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 715,
-        "num_faces": 0,
-        "emotions": [],
-        "activity": "Acenando"
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
     },
     {
         "frame": 720,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "happy"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 725,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 730,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 735,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 740,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 745,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 750,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 755,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 760,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 765,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 770,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 775,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 780,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 785,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 790,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 795,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 800,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 805,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 810,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 815,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
         ],
-        "activity": "Acenando"
+        "activity": "Neutro"
     },
     {
         "frame": 820,
         "num_faces": 1,
         "emotions": [
-            "Indefinido"
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 825,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 830,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 835,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 840,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 845,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 850,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 855,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 860,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 865,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 870,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 875,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 880,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 885,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 890,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 895,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 900,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 905,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 910,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 915,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 920,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 925,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 930,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 935,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 940,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 945,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 950,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 955,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 960,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 965,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 970,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 975,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 980,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 985,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 990,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 995,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1000,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1005,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1010,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1015,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1020,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1025,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1030,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1035,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1040,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1045,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1050,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1055,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1060,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1065,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1070,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1075,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1080,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1085,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1090,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1095,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1100,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1105,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1110,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
         ],
         "activity": "Acenando"
+    },
+    {
+        "frame": 1115,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1120,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1125,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1130,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1135,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1140,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1145,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1150,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1155,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1160,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1165,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1170,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1175,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1180,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1185,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1190,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1195,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1200,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1205,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1210,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1215,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1220,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1225,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1230,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Acenando"
+    },
+    {
+        "frame": 1235,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1240,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1245,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1250,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1255,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1260,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1265,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1270,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1275,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1280,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1285,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1290,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1295,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1300,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1305,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1310,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1315,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1320,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1325,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1330,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1335,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1340,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1345,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1350,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1355,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1360,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1365,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1370,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1375,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1380,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1385,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1390,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1395,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1400,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1405,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1410,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1415,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1420,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1425,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1430,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1435,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1440,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1445,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1450,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1455,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1460,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1465,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1470,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1475,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1480,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1485,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1490,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1495,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1500,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1505,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1510,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1515,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1520,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1525,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1530,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1535,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1540,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1545,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1550,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1555,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1560,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1565,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1570,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1575,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1580,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1585,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1590,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1595,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1600,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1605,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1610,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1615,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1620,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1625,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1630,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1635,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1640,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1645,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1650,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1655,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1660,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1665,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1670,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1675,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1680,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1685,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1690,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1695,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1700,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1705,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1710,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1715,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1720,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1725,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1730,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1735,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1740,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1745,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1750,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1755,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1760,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1765,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1770,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1775,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1780,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1785,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1790,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1795,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1800,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1805,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1810,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1815,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1820,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1825,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1830,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1835,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1840,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1845,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1850,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1855,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1860,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1865,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1870,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1875,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1880,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1885,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1890,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 1895,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1900,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1905,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1910,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1915,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1920,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1925,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1930,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1935,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1940,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1945,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1950,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1955,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1960,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1965,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1970,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1975,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1980,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1985,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1990,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 1995,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2000,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2005,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2010,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2015,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2020,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2025,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2030,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2035,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2040,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2045,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2050,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2055,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2060,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2065,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2070,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2075,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2080,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2085,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2090,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2095,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2100,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2105,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2110,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2115,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2120,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2125,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2130,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2135,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2140,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2145,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2150,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2155,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2160,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2165,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2170,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2175,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2180,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2185,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2190,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2195,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2200,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2205,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2210,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2215,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2220,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2225,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2230,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2235,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2240,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2245,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2250,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2255,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2260,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2265,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2270,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2275,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2280,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2285,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2290,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2295,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2300,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2305,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2310,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2315,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2320,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2325,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2330,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2335,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2340,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2345,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2350,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2355,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2360,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2365,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2370,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2375,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2380,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2385,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2390,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2395,
+        "num_faces": 1,
+        "emotions": [
+            "neutral"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2400,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2405,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2410,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2415,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2420,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2425,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2430,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2435,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2440,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2445,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2450,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2455,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2460,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2465,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2470,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2475,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2480,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2485,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2490,
+        "num_faces": 1,
+        "emotions": [
+            "angry"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2495,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2500,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2505,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2510,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2515,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2520,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2525,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2530,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2535,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2540,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2545,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2550,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2555,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2560,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2565,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2570,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2575,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2580,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2585,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2590,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2595,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2600,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2605,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2610,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2615,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2620,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2625,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2630,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2635,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 2640,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2645,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2650,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2655,
+        "num_faces": 1,
+        "emotions": [
+            "happy"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2660,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2665,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2670,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2675,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2680,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2685,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2690,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2695,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2700,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2705,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2710,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2715,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2720,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2725,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2730,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2735,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2740,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2745,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2750,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2755,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2760,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2765,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2770,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2775,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2780,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2785,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2790,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2795,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2800,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2805,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2810,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2815,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2820,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2825,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2830,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2835,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2840,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2845,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2850,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2855,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2860,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2865,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2870,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2875,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2880,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2885,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2890,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2895,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2900,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2905,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2910,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2915,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2920,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2925,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2930,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2935,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2940,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2945,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2950,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2955,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2960,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2965,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2970,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2975,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2980,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2985,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2990,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 2995,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3000,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3005,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3010,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3015,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3020,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3025,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3030,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3035,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3040,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3045,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3050,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3055,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3060,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3065,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3070,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3075,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3080,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3085,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3090,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3095,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3100,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3105,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3110,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3115,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3120,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3125,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3130,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3135,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3140,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3145,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3150,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3155,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3160,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3165,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3170,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3175,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3180,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3185,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3190,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3195,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3200,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3205,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3210,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3215,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3220,
+        "num_faces": 1,
+        "emotions": [
+            "surprise"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3225,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3230,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3235,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3240,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3245,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3250,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3255,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3260,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3265,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3270,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3275,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3280,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3285,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3290,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3295,
+        "num_faces": 0,
+        "emotions": [],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3300,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Neutro"
+    },
+    {
+        "frame": 3305,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 3310,
+        "num_faces": 1,
+        "emotions": [
+            "fear"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 3315,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 3320,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
+    },
+    {
+        "frame": 3325,
+        "num_faces": 1,
+        "emotions": [
+            "sad"
+        ],
+        "activity": "Dançando"
     }
 ]
