@@ -75,27 +75,36 @@ def detect_pose_and_faces(video_path, output_path):
                     # Analisar emoções
                     emotions = analyze_emotions(frame, face_locations)
 
-                    # Desenhar retângulos e exibir emoções
-                    for (top, right, bottom, left), emotion in zip(face_locations, emotions):
-                        cv2.rectangle(frame, (left, top), (right, bottom), (255, 0, 0), 2)
-                        cv2.putText(frame, emotion, (left, top - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 0, 0), 2)
-
                     # Detectar poses e atividades
                     results = pose.process(rgb_frame)
                     activity = detect_activity(results.pose_landmarks, mp_pose)
 
+                    # Identificar anomalias
+                    is_anomalous = activity == "Nao identificado ou anomalo"
+                    if is_anomalous:
+                        anomalies_detected += 1
+
+                    # Adicionar resultados do frame
+                    frame_result = {
+                        "frame": frames_analyzed,
+                        "num_faces": len(face_locations),
+                        "emotions": emotions,
+                        "activity": activity,
+                    }
+                    results_data.append(frame_result)
+
+                    # Desenhar resultados no frame
+                    for (top, right, bottom, left), emotion in zip(face_locations, emotions):
+                        cv2.rectangle(frame, (left, top), (right, bottom), (255, 0, 0), 2)
+                        cv2.putText(frame, emotion, (left, top - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 0, 0), 2)
+
                     if results.pose_landmarks:
                         mp_drawing.draw_landmarks(frame, results.pose_landmarks, mp_pose.POSE_CONNECTIONS)
 
-                    # Adicionar texto ao frame antes de salvar no vídeo de saída
                     cv2.putText(frame, f"Atividade: {activity}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-
-                    # Salvar o frame no vídeo de saída
                     out.write(frame)
 
-                    # Exibir o vídeo com marcações na tela
                     cv2.imshow('Video', frame)
-
                     if cv2.waitKey(1) & 0xFF == ord('q'):
                         break
 
@@ -107,16 +116,17 @@ def detect_pose_and_faces(video_path, output_path):
         out.release()
         cv2.destroyAllWindows()
 
-        # Adicionar totais ao JSON
+        # Adicionar resumo ao relatório
         results_summary = {
+            "total_frames": total_frames,
             "frames_analyzed": frames_analyzed,
-            "anomalies_detected": anomalies_detected
+            "anomalies_detected": anomalies_detected,
+            "frames_data": results_data
         }
-        results_data.append({"summary": results_summary})
 
-        # Salvar resultados no arquivo JSON
+        # Salvar relatório completo no JSON
         with open(output_json_path, "w", encoding="utf-8") as json_file:
-            json.dump(results_data, json_file, indent=4, ensure_ascii=False)
+            json.dump(results_summary, json_file, indent=4, ensure_ascii=False)
 
         print(f"Resultados salvos em: {output_json_path}")
 
@@ -128,37 +138,24 @@ def analyze_emotions(frame, face_locations):
     emotions = []
     for top, right, bottom, left in face_locations:
         try:
-            # Garantir que os índices estão dentro dos limites da imagem
             top = max(0, top)
             right = min(frame.shape[1], right)
             bottom = min(frame.shape[0], bottom)
             left = max(0, left)
 
-            # Extrair a região da face
             face_region = frame[top:bottom, left:right]
-
-            # Verificar se a região da face não é vazia
             if face_region.size == 0:
                 emotions.append("Indefinido")
                 continue
 
-            # Analisar a emoção da face
             result = DeepFace.analyze(face_region, actions=['emotion'], enforce_detection=False)
-
-            # Tratar o retorno quando for uma lista (múltiplas faces)
-            if isinstance(result, list):
-                # Pegar a emoção dominante da primeira face detectada (ajuste conforme necessário)
-                dominant_emotion = result[0].get('dominant_emotion', "Indefinido")
-            else:
-                # Pegar a emoção dominante quando é um único dicionário
-                dominant_emotion = result.get('dominant_emotion', "Indefinido")
-
+            dominant_emotion = result[0].get('dominant_emotion', "Indefinido") if isinstance(result, list) else result.get('dominant_emotion', "Indefinido")
             emotions.append(dominant_emotion)
-        
+
         except Exception as e:
             print(f"Erro na análise de emoções: {e}")
             emotions.append("Indefinido")
-    
+
     return emotions
 
 
@@ -243,8 +240,6 @@ def detect_activity(pose_landmarks, mp_pose):
         if abs(left_wrist.y - left_elbow.y) > 0.1 and abs(right_wrist.y - right_elbow.y) < 0.05:
             return "Escrevendo"
         
-
-
     # Movimento não identificado ou anômalo
     return "Nao identificado ou anomalo"
 
@@ -252,7 +247,7 @@ def detect_activity(pose_landmarks, mp_pose):
 # Configurações do vídeo de entrada e saída
 script_dir = os.path.dirname(os.path.abspath(__file__))
 input_video_path = os.path.join(script_dir, 'video_teste.mp4')
-output_video_path = os.path.join(script_dir, 'output_video_otimizado_final.mp4')
+output_video_path = os.path.join(script_dir, 'output_video_otimizado_final_1.mp4')
 
 # Processar o vídeo
 detect_pose_and_faces(input_video_path, output_video_path)

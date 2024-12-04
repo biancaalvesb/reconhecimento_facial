@@ -1,10 +1,12 @@
 # Tech Challenge - Análise de Vídeo com Reconhecimento Facial, Expressões e Atividades
 
 Grupo 5
-Bianca Alves Barroso          - RM355265
-Carlos Kuchenbecker da Silva  - RM356081
-João Amaro Alves Pessanha     - RM355800
-Silvanio dos Santos Ferreira  - RM354804
+
+- Bianca Alves Barroso          - RM355265
+- Carlos Kuchenbecker da Silva  - RM356081
+- João Amaro Alves Pessanha     - RM355800
+- Silvanio dos Santos Ferreira  - RM354804
+
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte do **Tech Challenge - Fase 4** e utiliza técnicas avançadas de análise de vídeo para realizar as seguintes tarefas:
